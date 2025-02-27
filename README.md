@@ -25,6 +25,24 @@ An AI-driven scoring system that allows investors, venture studios, and accelera
 - **Frontend**: React/Next.js, Plotly/D3.js
 - **Infrastructure**: AWS/GCP/Azure, Docker, PostgreSQL
 
+## 🚀 Using with Cursor
+
+To pull this repository into Cursor:
+
+1. Open Cursor
+2. Create a new project or open an existing one
+3. Click on the Git menu
+4. Select "Clone Repository"
+5. Enter: `https://github.com/Oreoluwa1993/business-idea-scorer.git`
+6. Choose your preferred location to save the cloned repository
+7. Click "Clone"
+
+Once cloned, you can explore and modify the code directly in Cursor:
+
+- **Backend code**: Found in the `backend/` directory
+- **Frontend code**: Found in the `frontend/` directory
+- **Docker configuration**: Available in the root directory and within each service folder
+
 ## 🚀 Getting Started
 
 ### Prerequisites
